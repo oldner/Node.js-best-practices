@@ -1,2 +1,3 @@
 # Node.js-best-practices
-adviced by OpenAI Chat
+
+Node.js best practices (with examples) adviced by Chat GPT.
